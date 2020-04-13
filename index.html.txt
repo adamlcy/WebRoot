@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Chunyao Li</title>
+  <link rel="css" href="./css/style.css">
+</head>
+<body>
+
+<img src="./images/Chunyao Li.jpg" alt="profile photo">
+<h1>Chunyao li</h1>
+<p>I am Chunyao Li and I came from China, I've been Seattle for almost 6 years. This is my last year in Bellevue College. I think I am still new to coding world, So I want to learn asa much as I can in this class.</p>
+  
+</body>
+</html>
